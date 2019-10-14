@@ -6,7 +6,7 @@ It contains examples of my work, challenges I have completed and my thoughts whi
 
 Click on week folders to see more. :open_file_folder:
 
-## **Course goals**
+## Course goals
 
 ### I can make software
 
@@ -29,6 +29,6 @@ Click on week folders to see more. :open_file_folder:
 * I can justify the way I work
 * I grow collaboratively
 
-## **Weekly work**
+## Week Folders
 
 * [Week 1 :open_file_folder:](week1/week1.md)
