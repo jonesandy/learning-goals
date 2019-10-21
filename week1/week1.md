@@ -11,7 +11,9 @@ By the end of the week I will be able to:
 
 ### Goals
 
-* **Understand principle of encapsulation**. 
+ **Describe some basic OO principles like encapsulation, SRP**
+ 
+ 
 
 
 
