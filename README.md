@@ -32,3 +32,4 @@ Click on week folders to see more. :open_file_folder:
 ## Week Folders
 
 * [Week 1 :open_file_folder:](week1/week1.md)
+* [Week 2 :open_file_folder:](week2/week2.md)
