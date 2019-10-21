@@ -12,6 +12,10 @@
 * Review a cohort member's code and give constructive feedback.
 * Write a post about what makes good feedback
 
+## Evidence
+
+* **Pairing** - Collaborating on weekly challenge with cohort members. Collaborated on these projects:
+(Ali Phipps)[https://github.com/ali-phipps/oystercard].
 
 ### Monday 21st October
 
