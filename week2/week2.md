@@ -1,23 +1,18 @@
 # Week 2 goals
 
-* Explain the 4 basic principles of OOP.
-* Understand what makes good feedback when reviewing code.
-* Understand and use Mocking to test classes in isolation.
-* Test-drive a simple program using objects and methods.
-* Seek feedback on one piece of code.
-* Review another person's code and give them meaningful feedback
-* Break one class into two classes that work together, while maintaining test coverage
-* Use week 1 skills.
-
-## Plan to achieve goals
-
-* Review a cohort member's code and give constructive feedback.
-* Write a post about what makes good feedback
-* Complete Oystercard challange using TDD
+1. Use week 1 skills.
+2. Break one class into two classes that work together, while maintaining test coverage
+3. Understand and use Mocking to test classes in isolation.
+4. Explain the 4 basic principles of OOP.
+5. Understand what makes good feedback when reviewing code.
+6. Review another person's code and give them meaningful feedback
+7. Seek feedback on one piece of code.
+8. Test-drive a simple program using objects and methods.
 
 ## Evidence
 
-* **Pairing** - Collaborating on weekly challenge with cohort members. Collaborated on these projects:
+1. 
+  * **Pairing** - Collaborating on weekly challenge with cohort members. Collaborated on these projects:
 [Ali Phipps](https://github.com/ali-phipps/oystercard).
 
 ## Daily Goals
@@ -30,4 +25,10 @@
 
 **GOAL** - Write a post about what makes good feedback.  
 **PLAN** - Use materials to form ideas and then produce blog post.  
+**EVIDENCE** -   
+
+### Tuesday 22nd October
+
+**GOAL** - Understand Domain Modelling  
+**PLAN** - Attend Domain Modelling workshop and complete tasks from workshop.  
 **EVIDENCE** - 
