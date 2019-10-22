@@ -7,7 +7,7 @@
 * Seek feedback on one piece of code.
 * Review another person's code and give them meaningful feedback
 * Break one class into two classes that work together, while maintaining test coverage
-* * Use week 1 skills.
+* Use week 1 skills.
 
 ## Plan to achieve goals
 
@@ -28,6 +28,6 @@
 **PLAN** - Pair with pairing partner and review code  
 **EVIDENCE** - Reviewed [this codebase](https://github.com/fahus/airport_challenge) with comments on [pull request](https://github.com/makersacademy/airport_challenge/pull/1590).
 
-**GOAL** - Write a post about what makes good feedback.
-**PLAN** - Use materials to form ideas and then produce blog post.
+**GOAL** - Write a post about what makes good feedback.  
+**PLAN** - Use materials to form ideas and then produce blog post.  
 **EVIDENCE** - 
