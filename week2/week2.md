@@ -4,10 +4,9 @@
 2. Break one class into two classes that work together, while maintaining test coverage
 3. Understand and use Mocking to test classes in isolation.
 4. Explain the 4 basic principles of OOP.
-5. Understand what makes good feedback when reviewing code.
+5. Understand Domain Modelling.
 6. Review another person's code and give them meaningful feedback
 7. Seek feedback on one piece of code.
-8. Test-drive a simple program using objects and methods.
 
 ## Evidence
 
@@ -31,4 +30,4 @@
 
 **GOAL** - Understand Domain Modelling  
 **PLAN** - Attend Domain Modelling workshop and complete tasks from workshop.  
-**EVIDENCE** - 
+**EVIDENCE** - [Domain modelling repository](https://github.com/jonesandy/domain-modelling) with small write up and examples.
