@@ -4,7 +4,7 @@ This is my learning journey while attending Makers Academy. Documented in this r
 
 It contains examples of my work, challenges I have completed and my thoughts while working through the course. 
 
-Click on week README for details.
+Click on week README for details :page_facing_up:.
 
 ## Course goals
 
@@ -29,7 +29,7 @@ Click on week README for details.
 * I can justify the way I work
 * I grow collaboratively
 
-## Week Folders
+## Week goals README
 
-* [Week 1 ](week1/week1.md)
-* [Week 2 ](week2/week2.md)
+* [Week 1 :page_facing_up:](week1/week1.md)
+* [Week 2 :page_facing_up:](week2/week2.md)
