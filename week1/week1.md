@@ -14,7 +14,13 @@ By the end of the week I will be able to:
 
   * **Boris-Bikes** - Weekly challenge demonstrating different stages of unit and feature tests. All code written test first. Completed as a pairing excercise [here](https://github.com/jonesandy/boris-bikes-1) and as a solo effort [here.](https://github.com/jonesandy/boris-bikes)
   * **Airport** - Weekend solo challenge tackled using TDD practises. Tests written first to drive production code. Repository [here.](https://github.com/jonesandy/airport_challenge)
+  * **Dice-app** - Simple one method program to begin TDD mindset. Uses srand for random behaviour stubbing. Repository [here](https://github.com/jonesandy/dice-app).
+
+2. Pair using the driver-navigator style
+
+  * **Boris-Bikes** - Weekly challenge completed as a pairing excercise [here.](https://github.com/jonesandy/boris-bikes-1)
+
 
 ## Next week goal
 
-Ask a cohort member each day to validate and review a piece of my code.
+Ask a cohort member to validate and review a piece of my code.

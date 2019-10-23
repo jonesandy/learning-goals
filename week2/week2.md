@@ -1,5 +1,7 @@
 # Week 2 goals
 
+By the end of the week I will be able to:
+
 1. Use week 1 skills.
 2. Break one class into two classes that work together, while maintaining test coverage
 3. Understand and use Mocking to test classes in isolation.
@@ -10,7 +12,8 @@
 
 ## Evidence
 
-1. 
+1. Use week 1 skills.
+
   * **Pairing** - Collaborating on weekly challenge with cohort members. Collaborated on these projects:
 [Ali Phipps](https://github.com/ali-phipps/oystercard).
 
