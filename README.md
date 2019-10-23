@@ -4,7 +4,7 @@ This is my learning journey while attending Makers Academy. Documented in this r
 
 It contains examples of my work, challenges I have completed and my thoughts while working through the course. 
 
-Click on week folders to see more. :open_file_folder:
+Click on week README for details.
 
 ## Course goals
 
@@ -31,5 +31,5 @@ Click on week folders to see more. :open_file_folder:
 
 ## Week Folders
 
-* [Week 1 :open_file_folder:](week1/week1.md)
-* [Week 2 :open_file_folder:](week2/week2.md)
+* [Week 1 ](week1/week1.md)
+* [Week 2 ](week2/week2.md)
