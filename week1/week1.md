@@ -13,6 +13,7 @@ By the end of the week I will be able to:
 1. Test-drive a simple program using objects and methods
 
   * **Boris-Bikes** - Weekly challenge demonstrating different stages of unit and feature tests. All code written test first. Completed as a pairing excercise [here](https://github.com/jonesandy/boris-bikes-1) and as a solo effort [here.](https://github.com/jonesandy/boris-bikes)
+  * **Airport** - Weekend solo challenge tackled using TDD practises. Tests written first to drive production code. Repository [here.](https://github.com/jonesandy/airport_challenge)
 
 ## Next week goal
 
