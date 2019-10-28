@@ -21,8 +21,8 @@ By the end of the week I will be able to:
 
 ### Monday 21st October
 
-**GOAL** - Review a cohort's code  
-**PLAN** - Pair with pairing partner and review code  
+**GOAL** - Review a cohort's code.  
+**PLAN** - Pair with pairing partner and review code. 
 **EVIDENCE** - Reviewed [this codebase](https://github.com/fahus/airport_challenge) with comments on [pull request](https://github.com/makersacademy/airport_challenge/pull/1590).
 
 **GOAL** - Write a post about what makes good feedback.  
@@ -31,6 +31,12 @@ By the end of the week I will be able to:
 
 ### Tuesday 22nd October
 
-**GOAL** - Understand Domain Modelling  
+**GOAL** - Understand basic domain modelling.  
 **PLAN** - Attend Domain Modelling workshop and complete tasks from workshop.  
 **EVIDENCE** - [Domain modelling repository](https://github.com/jonesandy/domain-modelling) with small write up and examples.
+
+### Friday 25th October
+
+**GOAL** - Gain basic knowledge of doubles to test class in isolation.
+**PLAN** - Complete Dependency Injection practical.
+**EVIDENCE** - 
