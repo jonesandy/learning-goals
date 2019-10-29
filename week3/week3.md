@@ -17,6 +17,6 @@ By the end of the week I will be able to:
 
 ### Tuesday 29th October
 
-**GOAL** - Understand what is a server and what is a client.
+**GOAL** - Understand what is a server and what is a client.   
 **PLAN** - Work through the [server](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md) and [client](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md) practicals.
-**EVIDENCE** - 
+**EVIDENCE** - Practicals completed and documented in [this](https://github.com/jonesandy/servers-clients) repository.
