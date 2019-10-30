@@ -23,6 +23,6 @@ By the end of the week I will be able to:
 
 ### Wednesday 30th October
 
-**GOAL** - Understand what HTTP is and build a small HTTP server.
-**PLAN** - Complete the HTTP Server [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md) and create a blog post on what HTTP is.    
+**GOAL** - Understand what HTTP is and build a small HTTP server.   
+**PLAN** - Complete the HTTP Server [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md) and create a blog post on what HTTP is.     
 **EVIDENCE** - 
