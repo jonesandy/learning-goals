@@ -18,5 +18,11 @@ By the end of the week I will be able to:
 ### Tuesday 29th October
 
 **GOAL** - Understand what is a server and what is a client.   
-**PLAN** - Work through the [server](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md) and [client](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md) practicals.
+**PLAN** - Work through the [server](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/servers.md) and [client](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/clients.md) practicals.   
 **EVIDENCE** - Practicals completed and documented in [this](https://github.com/jonesandy/servers-clients) repository.
+
+### Wednesday 30th October
+
+**GOAL** - Understand what HTTP is and build a small HTTP server.
+**PLAN** - Complete the HTTP Server [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md) and create a blog post on what HTTP is.    
+**EVIDENCE** - 
