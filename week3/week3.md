@@ -39,3 +39,6 @@ By the end of the week I will be able to:
 
 ### Friday 1st November
 
+**GOAL** - Be able to explain the MVC pattern from a high level.
+**PLAN** - Read up on MVC.  Create a blog post explaining MVC from a high level.    
+**EVIDENCE** - 
