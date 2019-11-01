@@ -14,6 +14,10 @@ By the end of the week I will be able to:
 
 ### Monday 28th October
 
+**GOAL** - Code review a peer's weekend challenge and give feedback.    
+**PLAN** - Use my pair partner's code from the weekend challenge.    
+**EVIDENCE** - Comments and review on [this](https://github.com/ingridbjarman/takeaway-challenge) code base, specifically [this](https://github.com/makersacademy/takeaway-challenge/pull/1498) pull request.    
+
 
 ### Tuesday 29th October
 
@@ -26,3 +30,12 @@ By the end of the week I will be able to:
 **GOAL** - Understand what HTTP is and build a small HTTP server.   
 **PLAN** - Complete the HTTP Server [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md) and create a blog post on what HTTP is.     
 **EVIDENCE** - 
+
+### Thursday 31st October
+
+**GOAL** - Be able to explain how DNS works.    
+**PLAN** - Read up on DNS. Create a blog post explaining my learnings.      
+**EVIDENCE** - Blog post found [here](https://medium.com/@jonesandy/dns-the-webs-own-contacts-app-6afeb253f180).     
+
+### Friday 1st November
+
