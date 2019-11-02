@@ -2,12 +2,16 @@
 
 By the end of the week I will be able to:
 
-1. Build a simple web app
+1. Build a simple web app :white_check_mark:
 2. Follow an effective debugging process for web applications
 3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 4. Explain the MVC pattern
 
 ## Evidence
+
+1. Build a simple web app
+   Pairing done on [this](https://github.com/bibbycodes/battle) web app.
+   Pairing done on [this](https://github.com/Liatmoss/battle)web app.
 
 
 ## Daily Goals
@@ -39,6 +43,6 @@ By the end of the week I will be able to:
 
 ### Friday 1st November
 
-**GOAL** - Be able to explain the MVC pattern from a high level.
+**GOAL** - Be able to explain the MVC pattern from a high level.     
 **PLAN** - Read up on MVC.  Create a blog post explaining MVC from a high level.    
 **EVIDENCE** - 
