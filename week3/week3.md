@@ -2,16 +2,16 @@
 
 By the end of the week I will be able to:
 
-1. Build a simple web app :white_check_mark:
+1. Build a simple web app. :white_check_mark:
 2. Follow an effective debugging process for web applications
 3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 4. Explain the MVC pattern
 
 ## Evidence
 
-1. Build a simple web app
-   Pairing done on [this](https://github.com/bibbycodes/battle) web app.
-   Pairing done on [this](https://github.com/Liatmoss/battle)web app.
+1. Build a simple web app.
+  * Pairing done on [this](https://github.com/bibbycodes/battle) web app.   
+  * Pairing done on [this](https://github.com/Liatmoss/battle) web app.
 
 
 ## Daily Goals
@@ -33,7 +33,7 @@ By the end of the week I will be able to:
 
 **GOAL** - Understand what HTTP is and build a small HTTP server.   
 **PLAN** - Complete the HTTP Server [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/servers_and_clients/http_servers.md) and create a blog post on what HTTP is.     
-**EVIDENCE** - 
+**EVIDENCE** -  Practical completed in [this](https://github.com/jonesandy/servers-clients) repository.
 
 ### Thursday 31st October
 
@@ -44,5 +44,5 @@ By the end of the week I will be able to:
 ### Friday 1st November
 
 **GOAL** - Be able to explain the MVC pattern from a high level.     
-**PLAN** - Read up on MVC.  Create a blog post explaining MVC from a high level.    
-**EVIDENCE** - 
+**PLAN** - Read up on MVC.  Create a basic Sinatra app in the MVC style.    
+**EVIDENCE** - Basic Sinatra app found [here](https://github.com/jonesandy/first-sinatra-app).
