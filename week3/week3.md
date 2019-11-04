@@ -9,18 +9,21 @@ By the end of the week I will be able to:
 
 ## Evidence
 
-1. **Build a simple web app.**    
-   Pairing done on [this](https://github.com/bibbycodes/battle) web app.   
-   Pairing done on [this](https://github.com/Liatmoss/battle) web app.   
-   Basic Sinatra web app [here](https://github.com/jonesandy/first-sinatra-app).   
-   [RockPaperScissors](https://github.com/jonesandy/rps-challenge) weekend challenge.
+1. **Build a simple web app.**
 
-2. **Follow an effective debugging process for web applications.**    
-   Debugging followed for [RockPaperScissors](https://github.com/jonesandy/rps-challenge) weekend challenge.
+  - Pairing done on [this](https://github.com/bibbycodes/battle) web app.
+  - Pairing done on [this](https://github.com/Liatmoss/battle) web app.
+  - Basic Sinatra web app [here](https://github.com/jonesandy/first-sinatra-app).
+  - [RockPaperScissors](https://github.com/jonesandy/rps-challenge) weekend challenge.
 
-3. **Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS).**    
-   Practicals completed on [servers/clients](https://github.com/jonesandy/servers-clients).    
-   Blog post written on [DNS](https://medium.com/@jonesandy/dns-the-webs-own-contacts-app-6afeb253f180).
+2. **Follow an effective debugging process for web applications.**
+
+  - Debugging followed for [RockPaperScissors](https://github.com/jonesandy/rps-challenge) weekend challenge.
+
+3. **Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS).**
+
+  - Practicals completed on [servers/clients](https://github.com/jonesandy/servers-clients).
+  - Blog post written on [DNS](https://medium.com/@jonesandy/dns-the-webs-own-contacts-app-6afeb253f180).
 
 
 ## Daily Goals
