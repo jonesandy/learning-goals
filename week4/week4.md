@@ -14,16 +14,16 @@ By the end of the week I will be able to:
 
 ### Monday 5th November
 
-**GOAL** - Basic knowledge of databases.    
-**PLAN** -   Complete steps 0 - 6 on SQLZoo.    
-**EVIDENCE** -   
+**GOAL** -    Get over illness.   
+**PLAN** -     Stay in bed.   
+**EVIDENCE** -   All better.
 
 
 ### Tuesday 6th November
 
-**GOAL** -   
-**PLAN** -    
-**EVIDENCE** - 
+**GOAL** - Basic knowledge of databases.    
+**PLAN** -   Complete steps 0 - 6 on SQLZoo.    
+**EVIDENCE** -    
 
 ### Wednesday 7th November
 
@@ -33,8 +33,8 @@ By the end of the week I will be able to:
 
 ### Thursday 8th November
 
-**GOAL** -   
-**PLAN** -       
+**GOAL** - Gain better understanding of debugging.   
+**PLAN** - Attend Debugging workshop.   
 **EVIDENCE** -      
 
 ### Friday 9th November
