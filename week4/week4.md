@@ -21,24 +21,24 @@ By the end of the week I will be able to:
 
 ### Tuesday 6th November
 
-**GOAL** - Basic knowledge of databases.    
-**PLAN** -   Complete steps 0 - 6 on SQLZoo.    
+**GOAL** - Basic knowledge of SQL.    
+**PLAN** - Complete steps 0 - 3 on SQLZoo.    
 **EVIDENCE** -    
 
 ### Wednesday 7th November
 
-**GOAL** -    
-**PLAN** -      
+**GOAL** - Work on more SQL learning.    
+**PLAN** - Complete steps 3 - 6 on SQLZoo.    
 **EVIDENCE** -  
 
 ### Thursday 8th November
 
-**GOAL** - Gain better understanding of debugging.   
-**PLAN** - Attend Debugging workshop.   
+**GOAL** - Basic understanding of how databases work.    
+**PLAN** - Work through course resources on databases and create blog post.    
 **EVIDENCE** -      
 
 ### Friday 9th November
 
-**GOAL** -      
-**PLAN** -     
+**GOAL** - Gain basic understanding of Entity Relationships.    
+**PLAN** - Work through Entity Relationship Diagrams practical. Read up on basic concepts.    
 **EVIDENCE** - 
