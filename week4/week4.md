@@ -23,7 +23,7 @@ By the end of the week I will be able to:
 
 **GOAL** - Basic knowledge of SQL.    
 **PLAN** - Complete steps 0 - 3 on SQLZoo.    
-**EVIDENCE** -    
+**EVIDENCE** -    ![SQLZoo](week4/_imgs/sql-0.png)    
 
 ### Wednesday 7th November
 
