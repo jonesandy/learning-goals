@@ -33,8 +33,8 @@ By the end of the week I will be able to:
 
 ### Thursday 14th November
 
-**GOAL** -     
-**PLAN** -    
+**GOAL** -  Gain basic understanding of asynchronous JavaSript.   
+**PLAN** -  Work through [this](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async).   
 **EVIDENCE** -      
 
 ### Friday 15th November
