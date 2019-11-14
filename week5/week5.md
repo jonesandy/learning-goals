@@ -33,9 +33,9 @@ By the end of the week I will be able to:
 
 ### Thursday 14th November
 
-**GOAL** -  Gain basic understanding of asynchronous JavaSript.   
+**GOAL** -  Gain basic understanding of asynchronous JavaSript and Callback functions.   
 **PLAN** -  Work through [this](https://github.com/makersacademy/skills-workshops/tree/master/practicals/js-following-the-flow-async).   
-**EVIDENCE** -      
+**EVIDENCE** -  Completed code [here](https://github.com/jonesandy/skills-workshops/blob/master/practicals/js-following-the-flow-async/index.js).
 
 ### Friday 15th November
 
