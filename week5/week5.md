@@ -8,7 +8,12 @@ By the end of the week I will be able to:
 ## Evidence
 
 1. **Test drive a simple front-end web app with Javascript.**
+    * Created simple front-end app mimicking a [thermostat](https://github.com/jonesandy/thermostat).
     * Test driving a simple [JavaBuzz](https://github.com/jonesandy/js-fizzbuzz) program.
+    * [Airport](https://github.com/jonesandy/js-airport) challenge revisited to gain understanding of Mocks/Spies in Jasmine.
+
+2. 
+    
 
 ## Daily Goals
 
