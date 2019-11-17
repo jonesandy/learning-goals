@@ -81,3 +81,22 @@ console.log(life) //  42
 
 //console log inside function
 meaning(); // "Is a precious gift"
+```
+
+### Numbers
+
+Numbers work the same way and can have mathimatical operations done on them.
+
+```javascript
+1 + 1 // 2
+```
+
+Interstingly in JavaScript if you try and add a string to a number it doesn't flag an error. It will try and convert and give an answer.
+
+```javascript
+1 + "1" // "11"
+
+"1" + "1" // "11"
+
+"1" - "0" // 1
+```
