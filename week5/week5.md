@@ -26,14 +26,14 @@ By the end of the week I will be able to:
 
 ### Tuesday 12th November
 
-**GOAL** -   
-**PLAN** -   
+**GOAL** -  Understand basics of Encapsulation and prototypes in JavaScript.   
+**PLAN** -  Attend Encapsulation with the constructor and prototype pattern workshop and complete examples.      
 **EVIDENCE** -  
 
 ### Wednesday 13th November
 
-**GOAL** -    
-**PLAN** -   
+**GOAL** -  Convert basic Ruby functionality into equivilent JavaScript functionality.    
+**PLAN** -  Work through [this](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A) practical and make a list of Ruby code. Then translate to JavaScript.    
 **EVIDENCE** -  
 
 ### Thursday 14th November
