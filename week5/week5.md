@@ -34,7 +34,7 @@ By the end of the week I will be able to:
 
 **GOAL** -  Convert basic Ruby functionality into equivilent JavaScript functionality.    
 **PLAN** -  Work through [this](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A) practical and make a list of Ruby code. Then translate to JavaScript.    
-**EVIDENCE** -  
+**EVIDENCE** -  Document [here](https://github.com/jonesandy/learning-goals/blob/master/week5/ruby-to-javascript.md).
 
 ### Thursday 14th November
 
