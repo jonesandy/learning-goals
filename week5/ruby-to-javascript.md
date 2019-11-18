@@ -100,3 +100,25 @@ Interstingly in JavaScript if you try and add a string to a number it doesn't fl
 
 "1" - "0" // 1
 ```
+
+### Loops
+
+There are many different types of loops in JavaScript. Loops work similar but certain loops need conditions set inside the loop and then iterate afterwards. A for loop is written like so.
+
+```javascript
+var total = 0;
+
+for (var i = 0; i < 10; i++) {
+    total++;
+};
+```
+
+There is also a while loop.
+
+```javascript
+while (i < 10) {
+    console.log(i);
+    i++
+};
+```
+
