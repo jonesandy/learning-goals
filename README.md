@@ -36,3 +36,4 @@ Click on week README for details :page_facing_up:.
 * [Week 3 :page_facing_up:](week3/week3.md)
 * [Week 4 :page_facing_up:](week4/week4.md)
 * [Week 5 :page_facing_up:](week5/week5.md)
+* [Week 6 :page_facing_up:](week6/week6.md)
