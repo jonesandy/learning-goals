@@ -60,3 +60,4 @@ Our user stories could have been more concise and not encompassing more features
 
 [Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week5/week5.md)     
 [Home](https://github.com/jonesandy/learning-goals)    
+[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week7/week7.md)    
