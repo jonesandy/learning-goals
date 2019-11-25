@@ -2,11 +2,11 @@
 
 By the end of the week I will be able to:
 
-1. **Break down projects into tasks and allocate them to pairs.**:whitecheckmark:
-2. **Build to a specification (rather than challenges).**:whitecheckmark:
-3. **Run stand-ups and retrospectives.**:whitecheckmark:
-4. **Use a branch/PR/merge git workflow.**:whitecheckmark:
-5. **Give and receive meaningful code review.**:whitecheckmark:
+1. **Break down projects into tasks and allocate them to pairs.** :whitecheckmark:
+2. **Build to a specification (rather than challenges).** :whitecheckmark:
+3. **Run stand-ups and retrospectives.** :whitecheckmark:
+4. **Use a branch/PR/merge git workflow.** :whitecheckmark:
+5. **Give and receive meaningful code review.** :whitecheckmark:
 
 ## Evidence
 [MakersBnB] (https://github.com/jonesandy/makersbnb)
