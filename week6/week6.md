@@ -9,7 +9,7 @@ By the end of the week I will be able to:
 5. **Give and receive meaningful code review.** :white_check_mark:
 
 ## Evidence
-[MakersBnB] (https://github.com/jonesandy/makersbnb)
+[MakersBnB](https://github.com/jonesandy/makersbnb)
 
 1. **Break down projects into tasks and allocate them to pairs.**
     * Creating [these](https://github.com/jonesandy/makersbnb#user-stories) user stories from the specification.
