@@ -2,11 +2,11 @@
 
 By the end of the week I will be able to:
 
-1. **Break down projects into tasks and allocate them to pairs.** :whitecheckmark:
-2. **Build to a specification (rather than challenges).** :whitecheckmark:
-3. **Run stand-ups and retrospectives.** :whitecheckmark:
-4. **Use a branch/PR/merge git workflow.** :whitecheckmark:
-5. **Give and receive meaningful code review.** :whitecheckmark:
+1. **Break down projects into tasks and allocate them to pairs.** :white_check_mark:
+2. **Build to a specification (rather than challenges).** :white_check_mark:
+3. **Run stand-ups and retrospectives.** :white_check_mark:
+4. **Use a branch/PR/merge git workflow.** :white_check_mark:
+5. **Give and receive meaningful code review.** :white_check_mark:
 
 ## Evidence
 [MakersBnB] (https://github.com/jonesandy/makersbnb)
@@ -56,4 +56,7 @@ Our user stories could have been more concise and not encompassing more features
 * Style guide defined for names and variables.
 * More check-ins regarding blockers.
 
+---
 
+[Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week5/week5.md)     
+[Home](https://github.com/jonesandy/learning-goals)    
