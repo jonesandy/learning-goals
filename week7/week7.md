@@ -20,8 +20,8 @@ By the end of the week I will be able to:
 
 ### Tuesday 26th November
 
-**GOAL** -    
-**PLAN** -        
+**GOAL** -  Gain insight into how to read beyond my level.
+**PLAN** -  Work through the "Reading Beyond Your Level" [practical](https://hackmd.io/F-pmnp3hRhePddmf3mnKGw) to understand the ```new``` operator in JavaScript.     
 **EVIDENCE** -  
 
 ### Wednesday 27th November
@@ -32,8 +32,8 @@ By the end of the week I will be able to:
 
 ### Thursday 28th November
 
-**GOAL** -  
-**PLAN** -    
+**GOAL** - Understand basics of Modules in JavaScript and how and why to use them. Create a script that uses them in practice.    
+**PLAN** - Work through JavaScript Modules material in course repo.    
 **EVIDENCE** -  
 
 ### Friday 29th November
