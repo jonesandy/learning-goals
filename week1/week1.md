@@ -12,14 +12,14 @@ By the end of the week I will be able to:
 
 1. **Test-drive a simple program using objects and methods.**
 
-    * **Boris-Bikes** - Weekly challenge demonstrating different stages of unit and feature tests. All code written test first. Completed as a pairing excercise [here](https://github.com/mattfreeman-london/boris-bikes) and as a solo effort [here.](https://github.com/jonesandy/boris-bikes)
+    * **Boris-Bikes** - Weekly challenge demonstrating different stages of unit and feature tests. All code written test first. Completed as a pairing exercise [here](https://github.com/mattfreeman-london/boris-bikes) and as a solo effort [here.](https://github.com/jonesandy/boris-bikes)
     * **Airport** - Weekend solo challenge tackled using TDD practises. Tests written first to drive production code. Repository [here](https://github.com/jonesandy/airport_challenge).
     * **Dice-app** - Simple one method program to begin TDD mindset. Uses srand for random behaviour stubbing. Repository [here](https://github.com/jonesandy/dice-app).
     * **TDD Exercises** - Folder of TDD exercises using examples from the course, websites and Codewars katas. Repository [here](https://github.com/jonesandy/tdd-exercises).
 
 2. **Pair using the driver-navigator style.**
 
-    * **Boris-Bikes** - Weekly challenge completed as a pairing excercise [here](https://github.com/mattfreeman-london/boris-bikes).
+    * **Boris-Bikes** - Weekly challenge completed as a pairing exercise [here](https://github.com/mattfreeman-london/boris-bikes).
 
 3. **Follow an effective debugging process.**
 
@@ -29,7 +29,7 @@ By the end of the week I will be able to:
 4. **Describe some basic OO principles like encapsulation, SRP.**
 
     * **Encapsulation** - My example and explanation of encapsulation and SRP. Uses three classes to demonstrate and also includes write up in README file. Repository [here](https://github.com/jonesandy/encapsulation).
-    * **Calculator** exercise from the skills workshop material. Extracted own class to show cohesion in class and single responsibilty principle on each method. Code found [here](https://github.com/jonesandy/calculator-excercise).
+    * **Calculator** exercise from the skills workshop material. Extracted own class to show cohesion in class and single responsibility principle on each method. Code found [here](https://github.com/jonesandy/calculator-excercise).
   
 
 
