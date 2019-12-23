@@ -5,7 +5,7 @@ By the end of the week I will be able to:
 1. **Test-drive a simple program using objects and methods.** :white_check_mark:
 2. **Pair using the driver-navigator style.** :white_check_mark:
 3. **Follow an effective debugging process.** :white_check_mark:
-4. **Describe some basic OO principles like encapsulation, SRP.**
+4. **Describe some basic OO principles like encapsulation, SRP.** :white_check_mark:
 
 
 ## Evidence
@@ -29,6 +29,7 @@ By the end of the week I will be able to:
 4. **Describe some basic OO principles like encapsulation, SRP.**
 
     * **Encapsulation** - My example and explanation of encapsulation and SRP. Uses three classes to demonstrate and also includes write up in README file. Repository [here](https://github.com/jonesandy/encapsulation).
+    * **Calculator** exercise from the skills workshop material. Extracted own class to show cohesion in class and single responsibilty principle on each method. Code found [here](https://github.com/jonesandy/calculator-excercise).
   
 
 
