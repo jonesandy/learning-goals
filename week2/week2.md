@@ -40,3 +40,8 @@ By the end of the week I will be able to:
 **GOAL** - Gain basic knowledge of doubles to test class in isolation.
 **PLAN** - Complete Dependency Injection practical.
 **EVIDENCE** - 
+
+---
+[Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week1/week1.md)    
+[Home](https://github.com/jonesandy/learning-goals)    
+[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week3/week3.md)  
