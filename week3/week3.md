@@ -55,3 +55,8 @@ By the end of the week I will be able to:
 **GOAL** - Be able to explain the MVC pattern from a high level.     
 **PLAN** - Read up on MVC.  Create a basic Sinatra app in the MVC style.    
 **EVIDENCE** - Basic Sinatra app found [here](https://github.com/jonesandy/first-sinatra-app).
+
+---
+[Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week2/week2.md)    
+[Home](https://github.com/jonesandy/learning-goals)    
+[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week4/week4.md)  
