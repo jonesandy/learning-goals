@@ -2,20 +2,23 @@
 
 By the end of the week I will be able to:
 
-1. Use week 1 skills.
-2. Break one class into two classes that work together, while maintaining test coverage
-3. Understand and use Mocking to test classes in isolation.
-4. Explain the 4 basic principles of OOP.
-5. Understand Domain Modelling.
-6. Review another person's code and give them meaningful feedback
-7. Seek feedback on one piece of code.
+1. **Use week 1 skills.**
+2. **Break one class into two classes that work together, while maintaining test coverage.**
+3. **Unit test classes in isolation using mocking.**
+4. **Explain some basic OO principles and tie them to high level concerns (e.g. ease of change).**
+5. **Review another person's code and give them meaningful feedback.** :white_check_mark:
 
 ## Evidence
 
-1. Use week 1 skills.
+1. **Use week 1 skills.**
 
-  * **Pairing** - Collaborating on weekly challenge with cohort members. Collaborated on these projects:
-[Ali Phipps](https://github.com/ali-phipps/oystercard).
+    * Collaborating on weekly challenge with cohort members. Using pairing skills, TDD and Debugging approaches. Collaborated on these projects:    
+[Ali Phipps](https://github.com/ali-phipps/oystercard) Oystercard project.    
+[Elfi Yang](https://github.com/elfiyang16/oystercard) Oystercard project.
+
+5. **Review another person's code and give them meaningful feedback.**
+
+    * Reviewed [this codebase](https://github.com/fahus/airport_challenge) with comments on [pull request](https://github.com/makersacademy/airport_challenge/pull/1590).
 
 ## Daily Goals
 
@@ -25,9 +28,6 @@ By the end of the week I will be able to:
 **PLAN** - Pair with pairing partner and review code. 
 **EVIDENCE** - Reviewed [this codebase](https://github.com/fahus/airport_challenge) with comments on [pull request](https://github.com/makersacademy/airport_challenge/pull/1590).
 
-**GOAL** - Write a post about what makes good feedback.  
-**PLAN** - Use materials to form ideas and then produce blog post.  
-**EVIDENCE** -   
 
 ### Tuesday 22nd October
 
