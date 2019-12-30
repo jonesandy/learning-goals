@@ -3,9 +3,9 @@
 By the end of the week I will be able to:
 
 1. **Use week 1 skills.** :white_check_mark:
-2. **Break one class into two classes that work together, while maintaining test coverage.**
+2. **Break one class into two classes that work together, while maintaining test coverage.** :whitecheckmark:
 3. **Unit test classes in isolation using mocking.** :white_check_mark:
-4. **Explain some basic OO principles and tie them to high level concerns (e.g. ease of change).**
+4. **Explain some basic OO principles and tie them to high level concerns (e.g. ease of change).** :white_check_mark:
 5. **Review another person's code and give them meaningful feedback.** :white_check_mark:
 
 ## Evidence
@@ -15,6 +15,10 @@ By the end of the week I will be able to:
     * Collaborating on weekly challenge with cohort members. Using pairing skills, TDD and Debugging approaches. Collaborated on these projects:    
 [Ali Phipps](https://github.com/ali-phipps/oystercard) Oystercard project.    
 [Elfi Yang](https://github.com/elfiyang16/oystercard) Oystercard project.
+
+2. **Break one class into two classes that work together, while maintaining test coverage.**
+
+    * [Ali Phipps](https://github.com/ali-phipps/oystercard) Oystercard project. Project breaks one class out while maintaining test coverage.    
 
 3. **Unit test classes in isolation using mocking.**
 
