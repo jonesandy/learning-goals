@@ -5,7 +5,7 @@ By the end of the week I will be able to:
 1. **Build a simple web app.** :white_check_mark:
 2. **Follow an effective debugging process for web applications.** :white_check_mark:
 3. **Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS).**  :white_check_mark:
-4. **Explain the MVC pattern.**
+4. **Explain the MVC pattern.**  :white_check_mark:
 
 ## Evidence
 
