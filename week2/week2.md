@@ -18,7 +18,8 @@ By the end of the week I will be able to:
 
 2. **Break one class into two classes that work together, while maintaining test coverage.**
 
-    * [Ali Phipps](https://github.com/ali-phipps/oystercard) Oystercard project. Project breaks one class out while maintaining test coverage.    
+    * [Ali Phipps](https://github.com/ali-phipps/oystercard) Oystercard project. Project breaks one class out while maintaining test coverage.  
+    * [Takeaway](https://github.com/jonesandy/takeaway-challenge) weekend challenge.  
 
 3. **Unit test classes in isolation using mocking.**
 
