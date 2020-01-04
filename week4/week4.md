@@ -42,3 +42,8 @@ By the end of the week I will be able to:
 **GOAL** - Gain basic understanding of Entity Relationships.    
 **PLAN** - Work through Entity Relationship Diagrams practical. Read up on basic concepts.    
 **EVIDENCE** - 
+
+---
+[Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week3/week3.md)    
+[Home](https://github.com/jonesandy/learning-goals)    
+[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week5/week5.md)
