@@ -57,4 +57,4 @@ By the end of the week I will be able to:
 
 [Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week6/week6.md)     
 [Home](https://github.com/jonesandy/learning-goals)    
-[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week8/week8.md)
+[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week8-9/week8-9.md)
