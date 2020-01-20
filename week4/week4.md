@@ -4,7 +4,7 @@ By the end of the week I will be able to:
 
 1. **Build a simple web app with a database.** :white_check_mark:
 2. **Follow an effective debugging process for database applications.** :white_check_mark:
-3. **Explain the basics of how databases work (e.g. tables, SQL, basic relationships)**
+3. **Explain the basics of how databases work (e.g. tables, SQL, basic relationships)** :white_check_mark:
 
 ## Evidence
 1. **Build a simple web app with a database.**

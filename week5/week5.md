@@ -2,8 +2,8 @@
 
 By the end of the week I will be able to:
 
-1. **Test drive a simple front-end web app with Javascript.**
-2. **Follow an effective process for learning a new language.**
+1. **Test drive a simple front-end web app with Javascript.** :white_check_mark:
+2. **Follow an effective process for learning a new language.** :white_check_mark:
 
 ## Evidence
 
@@ -65,3 +65,8 @@ I would have liked to have completed more practicals and have created more code 
 ### Change for next week
 
 Play with more code after reading about a topic or idea. It helps so much in retaining what I have read and understood.
+
+---
+[Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week3/week4.md)    
+[Home](https://github.com/jonesandy/learning-goals)    
+[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week5/week6.md)
