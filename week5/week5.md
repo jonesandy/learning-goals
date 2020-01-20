@@ -67,6 +67,6 @@ I would have liked to have completed more practicals and have created more code 
 Play with more code after reading about a topic or idea. It helps so much in retaining what I have read and understood.
 
 ---
-[Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week3/week4.md)    
+[Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week4/week4.md)    
 [Home](https://github.com/jonesandy/learning-goals)    
-[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week5/week6.md)
+[Next Week](https://github.com/jonesandy/learning-goals/blob/master/week6/week6.md)
