@@ -2,11 +2,19 @@
 
 By the end of the week I will be able to:
 
-1. **Build a simple web app with a database.**
-2. **Follow an effective debugging process for database applications.**
+1. **Build a simple web app with a database.** :white_check_mark:
+2. **Follow an effective debugging process for database applications.** :white_check_mark:
 3. **Explain the basics of how databases work (e.g. tables, SQL, basic relationships)**
 
 ## Evidence
+1. **Build a simple web app with a database.**
+
+    * [Bookmarks](https://github.com/jonesandy/bookmarks-manager) manager application.
+    * [Chitter](https://github.com/jonesandy/chitter-challenge) weekend challenge.
+
+2. **Follow an effective debugging process for database applications.**
+
+    * Debugging while working on [Chitter](https://github.com/jonesandy/chitter-challenge) weekend challenge.
 
 
 
@@ -30,18 +38,6 @@ By the end of the week I will be able to:
 **GOAL** - Work on more SQL learning.    
 **PLAN** - Complete steps 3 - 6 on SQLZoo.    
 **EVIDENCE** -  
-
-### Thursday 8th November
-
-**GOAL** - Basic understanding of how databases work.    
-**PLAN** - Work through course resources on databases and create blog post.    
-**EVIDENCE** -      
-
-### Friday 9th November
-
-**GOAL** - Gain basic understanding of Entity Relationships.    
-**PLAN** - Work through Entity Relationship Diagrams practical. Read up on basic concepts.    
-**EVIDENCE** - 
 
 ---
 [Previous Week](https://github.com/jonesandy/learning-goals/blob/master/week3/week3.md)    
